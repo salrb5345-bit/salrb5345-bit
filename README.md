@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Suhaib
 
-<!--
-**salrb5345-bit/salrb5345-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student interested in how electronics and code work together.
 
-Here are some ideas to get you started:
+## Skills
+- **Web:** HTML, CSS, JavaScript
+- **Programming:** Java, C++
+- **Tools:** Git, GitHub
+- **Electronics:** Multisim, Proteus, Digital Logic, Operational Amplifiers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+Completed a 90-hour Front-End Programming course with Tech From Palestine.
+
+## Currently learning
+React and working with APIs.
+
+## Connect
+https://www.linkedin.com/in/suhaib-ahmed-6698a433b/
